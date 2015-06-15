@@ -1,4 +1,139 @@
 
+
+/* FINAL TEMPLATE CONTENTINFO 2.113 */
+#searchbar {
+    width: 100%;
+    margin-bottom:20px;
+    box-sizing:border-box;}
+#searchbar input.search_q {
+    width: 95%;
+    color: #444;
+    margin: 0 auto;
+    padding: 4px 7px;
+    font-size: 9px;
+    letter-spacing: 1px;
+    line-height: 26px;
+    font-weight: 100;
+    text-align: center;
+    border: none !important;
+    text-transform: uppercase;
+    outline: 0 none !important;
+    background: transparent !important;}
+#instagram-box  {
+    padding: 0; 
+    list-style: none; 
+    font-size: 0px; 
+    margin: -1px auto 0 auto; 
+    display: inline-block !important;} 
+#instagram-box ul {
+    list-style: none;
+    font-size: 0px; 
+    padding: 0;
+    margin: 0 auto !important;} 
+#instagram-box li {display: inline-block;}
+#instagram-box li img { 
+    opacity: 1; 
+    padding: 1px; 
+    width: 130px !important;
+    height: 130px !important;
+    background: transparent;
+    background-size: 130px 130px !important; 
+    transition: .3s ease-in;}
+#instagram-box li img:hover {
+    opacity: .6; 
+    transition: .3s ease-out;}
+#twitter .content {
+    z-index:7;
+    text-shadow: none!important;
+    font-size: 11px;
+    line-height: 1.5em;
+    white-space: pre-line;
+    margin: -35px auto 0 auto;
+    padding: 30px 10px 10px 10px;} 
+.timw {margin-right:4px;}
+.twttime {
+    font-size: 9px !important;
+    margin: 7px auto 0 auto !important; 
+    height: 19px !important; 
+    width: 77px !important; 
+    padding: 0 10px 0 10px !important; 
+    overflow: hidden !important; 
+    text-align: center !important;} 
+.twtdisc {
+    width:58px;
+    display:block;
+    position:relative;
+    line-height:1.4em;
+    margin: 0 auto 10px auto;
+    text-align:center;
+    border-radius:50%;}
+.twtdisc span {
+    z-index:10;
+    padding:15px;
+    font-size:18px;
+    position:relative;
+    border-radius:50%;}
+a.read-more {
+    width:200px;
+    height:50px;
+    line-height:50px;
+    font-size:11px;
+    margin:35px auto;
+    position: relative;
+    letter-spacing:4px;
+    text-align:center;
+    display:block;
+    text-transform: uppercase;
+    transition:all 200ms linear;}
+a.read-more span {
+    top:0; 
+    right:0;
+    bottom:0; 
+    left:0;
+    padding:0; 
+    margin:0;
+    position:absolute;}
+a.sidelink {
+    width:250px;
+    height:45px;
+    line-height:45px;
+    font-size:11px;
+    margin:5px auto;
+    position: relative;
+    letter-spacing:2px;
+    text-align:center;
+    display:block;
+    text-transform: lowercase;
+    transition:all 200ms linear;}
+a.sidelink span {
+    top:0; 
+    right:0;
+    bottom:0; 
+    left:0;
+    padding:0; 
+    margin:0;
+    position:absolute;}
+a.toplink {
+    width:160px!important;
+    height:30px;
+    line-height:30px;
+    font-size:11px;
+    margin:5px auto 10px auto;
+    position: relative;
+    letter-spacing:2px;
+    text-align:center;
+    display:block;
+    font-style:normal!important;
+    text-transform: lowercase;
+    transition:all 200ms linear;}
+a.toplink span {
+    top:0; 
+    right:0;
+    bottom:0; 
+    left:0;
+    padding:0; 
+    margin:0;
+    position:absolute;}
 #header-nav {
     font-size:12px;
     top: 0!important;

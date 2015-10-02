@@ -34,6 +34,21 @@
     -o-transform: rotate(45deg); 
     transform: rotate(45deg); 
     behavior:url(-ms-transform.htc);}  
+.question-wrap:before {
+    content: ''; 
+    border-width: 1px; 
+    border-style: solid; 
+    z-index: 1; 
+    width: 20px; height: 20px; 
+    position: absolute; 
+    display: block; 
+    margin: -10px auto 0 auto; 
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg); 
+    -ms-transform: rotate(45deg); 
+    -o-transform: rotate(45deg); 
+    transform: rotate(45deg); 
+    behavior:url(-ms-transform.htc);}
 h3.disc {
     text-align:center;
     padding-top:15px; 
